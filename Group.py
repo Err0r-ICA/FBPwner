@@ -323,7 +323,7 @@ elif bahasa.strip() in "04 4".split():
 
   print
 
-  step1 = raw_input("%s1%s)%s Prima di Tutto Apri il Gruppe %sFacebook%s Nel Quale se Desidera Effettuare l %sHack%s...%s[%sEnter%s]%s" % (Y, C, W, B, W, R, W, C, Y, C, N))
+  step1 = raw_input("%s1%s)%s Prima di Tutto Apri il Gruppo %sFacebook%s Nel Quale se Desidera Effettuare l %sHack%s...%s[%sEnter%s]%s" % (Y, C, W, B, W, R, W, C, Y, C, N))
 
   print "%s--------------------%s" % (R, N)
 
@@ -331,7 +331,7 @@ elif bahasa.strip() in "04 4".split():
 
   print "%s--------------------%s" % (R, N)
 
-  step3 = raw_input("%s3%s)%s Ora Vai Sul TuoProfilo e Trascrivi il Tuo ID di 15 Cifre. Esempio %s(%s 100004136748473 %s)%s...%s[%sEnter%s]%s" % (Y, C, W, C, B, C, W, C, Y, C, N))
+  step3 = raw_input("%s3%s)%s Ora Vai Sul Tuo Profilo e Trascrivi il Tuo ID di 15 Cifre. Esempio %s(%s 100004136748473 %s)%s...%s[%sEnter%s]%s" % (Y, C, W, C, B, C, W, C, Y, C, N))
 
   print "%s--------------------%s" % (R, N)
 
@@ -351,15 +351,15 @@ elif bahasa.strip() in "04 4".split():
 
   print "%s--------------------%s" % (R, N)
 
-  step6 = raw_input("%s6%s)%s Adesso Copia l URL di Output e Invialo All %sAdmin%s Del Gruppo Target. Se ti Rimane Difficile Copiare il Link, L ho Salvato Nel File *link.txt*. GiustoPer  Semplificare la Cosa, Apri il File link.txt Copia Il Link e Invialo All %sAdmin%s...%s[%sEnter%s]%s" % (Y, C, W, R, W, R, W, C, Y, C, N))
+  step6 = raw_input("%s6%s)%s Adesso Copia l URL di Output e Invialo All %sAdmin%s Del Gruppo Target. Se ti Rimane Difficile Copiare il Link, L ho Salvato Nel File *link.txt*. Giusto Per  Semplificare la Cosa, Apri il File link.txt Copia Il Link e Invialo All %sAdmin%s...%s[%sEnter%s]%s" % (Y, C, W, R, W, R, W, C, Y, C, N))
 
   print "%s--------------------%s" % (R, N)
 
-  step7 = raw_input("%s7%s)%s Resta Solo da Aspettare Che l %sAdmin%s Clicchi Sul Link Appena Inviato. Dopodiche, TU Rimpiazzerai il Correte %sAdmin%s Del Gruppo...%s[%sEnter%s]%s" % (Y, C, W, R, W, R, W, C, Y, C, N))
+  step7 = raw_input("%s7%s)%s Resta Solo da Aspettare Che l %sAdmin%s Clicchi Sul Link Appena Inviato. Dopodiche, TU Rimpiazzerai il Corrente %sAdmin%s Del Gruppo...%s[%sEnter%s]%s" % (Y, C, W, R, W, R, W, C, Y, C, N))
 
   print "%s--------------------%s" % (R, N)
 
-  step8 = raw_input("%s8%s)%s Adesso Non c'e Tempo da Perdere. Vai Sule Impostazioni Del Gruppo e Rimuovi Tutti Gli %sAdmins%s e Moderatori Dal Gruppo...%s[%sEnter%s]%s" % (Y, C, W, R, W, C, Y, C, N))
+  step8 = raw_input("%s8%s)%s Adesso Non c'e Tempo da Perdere. Vai Sulle Impostazioni Del Gruppo e Rimuovi Tutti Gli %sAdmins%s e Moderatori Dal Gruppo...%s[%sEnter%s]%s" % (Y, C, W, R, W, C, Y, C, N))
 
   print "%s--------------------%s" % (R, N)
 
