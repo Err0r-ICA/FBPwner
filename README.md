@@ -1,5 +1,5 @@
-# FBPwner
-Facebook Group Admin Takeover Hacking Technique
+![logo](https://i.postimg.cc/kMwQJKRt/Screenshot-20200930-065339-Chrome.jpg)
+
 
 ### Installing FBPwner
 ```
